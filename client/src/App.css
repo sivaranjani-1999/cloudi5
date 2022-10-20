@@ -1,0 +1,198 @@
+  
+
+
+.container1
+
+{
+  height: 100vh;
+  width: 60%;
+ background-color:aliceblue ;
+ margin-left: 255px;
+}
+.container2
+{
+  height: 20vh;
+  width: 100%;
+  background-image: url("https://media.istockphoto.com/photos/pharmacist-chemist-and-medical-doctor-woman-asia-with-stethoscope-and-picture-id689524668?k=20&m=689524668&s=612x612&w=0&h=xrhpxU0JSRoXV1VfnoA44zbAJLDgpjagmGTF_H0CAfU=");
+}
+.tb_div
+{
+  height: 70vh;
+  width: 80%;
+  background-color: aliceblue;
+  margin-left: 160px;
+  margin-top: -20px;
+}
+
+.tb_div1
+{
+  height: 70vh;
+  width: 80%;
+  background-color: aliceblue;
+  margin-left: 100px;
+  margin-top: -20px;
+}
+.container3
+{
+  height: 70vh;
+  width: 90%;
+  margin-left: 60px; 
+
+}
+
+.page
+{
+  text-align: end;
+}
+.finpt1_name
+{
+  height: 39px;
+  width: 299px;
+border-radius: 6px;
+font-size: 20px;
+text-align: center;
+border-width: 3px;
+border-color: black;
+}
+
+.finpt2_name
+{
+height: 39px;
+width: 299px;
+border-radius: 8px;
+font-size: 20px;
+text-align: center;
+border-width: 3px;
+border-color: black;
+margin-top: 6px;
+
+}
+.finpt3_name
+{
+  height: 39px;
+  width: 299px;
+border-radius: 6px;
+font-size: 20px;
+text-align: center;
+border-width: 3px;
+border-color: black;
+}
+.tinpt
+{
+  height: 39px;
+  width: 299px;
+  border-radius: 6px;
+  font-size: 20px;
+  text-align: center;
+  border-width: 3px;
+  border-color: black;
+}
+.lbl1
+{
+
+  /* margin-top:-20px; */
+  font-weight: 300px;
+  margin-bottom: -100px;
+  
+
+}
+.lbl
+{
+  font-weight:300px;
+}
+.lbl2
+{
+
+  font-weight: 300px;
+  margin-top: -100px;
+  
+}
+.btn
+{
+  width: 80%;
+  background-color:  rgb(88, 88, 138);
+  text-align: center;
+  border-width: 2px;
+  height: 40px;
+  border-radius: 4px;
+  margin-left: 70px;
+  margin-bottom: -50px;
+  border-color: white;
+
+}
+
+.tcontainer1
+{
+  background-color: rgb(100, 100, 122);
+  margin-left: 10px;
+  border-radius: 5px;
+  border-color: white;
+  height: 200vh;
+  width: 100%;
+ background-color:aliceblue ;
+ 
+}
+.tinpt
+{
+  height: 40px;
+  width: 400px;
+  margin-top: 10px;
+  border-radius: 6px;
+  border-width: 3px;
+}
+.tbtn
+{
+  border-color: rgb(243, 8, 173);
+  color:  rgb(243, 8, 173);
+  height: 40px;
+  width: 450px;
+  font-weight: bold;
+  border-radius: 3px;
+  margin-top: 40px;
+}
+.th5
+{
+  text-align: center;
+  margin-top: 20px;
+  color:  rgb(243, 8, 173) ;
+}
+
+.sinpt
+{
+  height: 40px;
+  width: 400px;
+  margin-top: 10px;
+  border-radius: 6px;
+  border-width: 3px;
+
+
+
+}
+.scontainer1
+{
+  height: 190vh;
+  width: 100%;
+ background-color:aliceblue ;
+ font-size: 17px;
+}
+.tcontainer1
+{
+  height: 190vh;
+  width: 100%;
+ background-color:aliceblue ;
+ font-size: 17px;
+}
+.tfrm
+{
+  margin-left: 10px;
+}
+.tbtn1
+{
+  margin-left: 150px;
+  height: 40px;
+  width: 450px;
+  font-weight: bold;
+  border-radius: 3px;
+  background-color:rgb(88, 88, 138);
+  
+}
